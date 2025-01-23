@@ -1,4 +1,3 @@
-# jean-albert-co.github.io
 # 👋 Hi, I'm Jean Albert Cortes
 
 ## 🚀 4+ Years in Backend Development | Java, Spring Boot | TypeScript, Express & Angular | AWS Cloud Solutions @BancoDeBogota  
